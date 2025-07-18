@@ -1,4 +1,5 @@
-🎮 GameReview App - Gamer Binder
+🎮 GameReview App - Gamer Binder 
+
 Welcome! This is a simple but complete game review application built in Mendix, where users can rate games they've played, leave comments, and store their own reviews.
 
 This project was developed as part of a learning challenge, and it helped me understand several key concepts of low-code development, database logic, and user experience.
